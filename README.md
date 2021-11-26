@@ -2,6 +2,9 @@
 
 ## Terminbuchung
 
+### Ich habe keine Terminbestätigung erhalten. Findet mein Termin trotzdem statt?
+Die Terminbestätigungen werden nicht automatisch versendet. Daher kann es vereinzelt zu Verzögerungen kommen. Sollte bis 3 Tage vor dem Termin keine Bestätigung rausgegangen sein, bitte zunächst im Buchungstool (terminplander.de) nachschauen, ob der Termin korrekt eingetragen wurde. Wenn ja, bitte per Mail an smartinjury@medicalschool-hamburg.de wenden. 
+
 ## Sensor
 
 ## AthleteMonitoring

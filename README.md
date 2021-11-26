@@ -1,1 +1,11 @@
-# sip_faq
+# Häufig gestellte Fragen (FAQ)
+
+## Terminbuchung
+
+## Sensor
+
+## AthleteMonitoring
+
+## Strava
+
+## Verletzungen

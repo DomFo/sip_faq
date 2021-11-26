@@ -1,4 +1,4 @@
-# Smart Ijury Prevention Studie: Häufig gestellte Fragen (FAQ)
+# Smart Injury Prevention Studie: Häufig gestellte Fragen (FAQ)
 
 ## Terminbuchung
 
